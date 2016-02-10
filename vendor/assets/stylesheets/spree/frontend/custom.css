@@ -1,9 +1,12 @@
 div.panel.panel-default {
-	border: 1px solid red;
+	border: 1px solid blue;
+}
 
 
-
-
-div.panel.panel-default:hover {
-	border: 1px solid black;
+.header_phone{
+	position: absolute;
+	top: 0;
+	right: 0;
+	font-size: 20px;
+	color: white;
 }
