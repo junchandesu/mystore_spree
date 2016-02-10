@@ -1,0 +1,9 @@
+div.panel.panel-default {
+	border: 1px solid red;
+
+
+
+
+div.panel.panel-default:hover {
+	border: 1px solid black;
+}
